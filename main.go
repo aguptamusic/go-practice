@@ -1,11 +1,11 @@
 package main
 
 import (
-	//misc "go-practice/misc"
+	misc "go-practice/misc"
 	greetings "go-practice/greetings"
 )
 
 func main() {
-	//misc.Syntax()
+	misc.Syntax()
 	greetings.SayHello()
 }
